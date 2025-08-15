@@ -3,6 +3,16 @@ Easyeffects ROG G513IE Presets
 
 Just Easyeffects flatpak version working.
 
-How to Install >>>>>> 
+1) How to Install >>>>>> 
 
-Show hidden file and after put files this location ''/home/.var/app/com.github.wwmm.easyeffects/config/easyeffects/output/''
+2) Show hidden file and after put files this location ''/home/.var/app/com.github.wwmm.easyeffects/config/easyeffects/output/''
+
+3) Open EasyEffects and load the preset from the 'Presets' menu
+   
+4) To have the preset automatically activate when the speakers is selected:
+
+    Go to the 'PipeWire' tab -> 'Presets Autoloading'
+    Leave the first field to the default 'Built-in Analog Audio Stereo'
+    Select your preset in the G513IE
+    Click the + button
+
