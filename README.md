@@ -1,7 +1,16 @@
 # Easyeffects-ROG-G513IE-Best presets 
-This preset gives a sound as good as Windows. You can listen Dolby Atmos quality on Linux Asus Rog Laptop 
-Easyeefects version 8.1.2 should be.
-You must be use G513IE preset. This preset Dolby Atmos Dynamic profile setting.
-How to aplly: Open Easyyeffetcs and top left corner Pre Settings button and which open window you must click ''import preset' after choose set preset. 
-Specify the file path and continue.
-Other options: .var/app/com.github.wwmm.easyeffects/data/easyeffects/output/ path file G513IE.json
+
+This preset provides a high-quality audio experience on Linux, comparable to Dolby Atmos on Windows for the Asus ROG G513IE-G513IH (2021) model.
+
+### Requirements
+- **Easyeffects version:** 8.1.2 or higher
+
+### How to Apply
+1. Open **Easyeffects**.
+2. Click the **Presets** button in the top left corner.
+3. Click **Import Preset** and select the `G513IE 1.json` file.
+4. Select the imported preset to activate it.
+
+**Manual Path:**
+If you prefer manual installation, move the file to:
+`~/.var/app/com.github.wwmm.easyeffects/data/easyeffects/output/`
